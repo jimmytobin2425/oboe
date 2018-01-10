@@ -16,9 +16,9 @@
 
 #include <sys/types.h>
 #include <pthread.h>
-#include <oboe/AudioStream.h>
+#include "oboe/AudioStream.h"
 #include "OboeDebug.h"
-#include <oboe/Utilities.h>
+#include "oboe/Utilities.h"
 
 namespace oboe {
 
